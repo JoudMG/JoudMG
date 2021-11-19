@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoudMG
+- 👋 Hi, I’m @iJoud
 - 👀 I’m interested in IT and related fields
 - 🌱 I’m currently Studying Information Technology
 
