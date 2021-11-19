@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoudMG
 - 👀 I’m interested in IT and related fields
-- 🌱 I’m currently Studing Information Technology
+- 🌱 I’m currently Studying Information Technology
 
 <!---
 JoudMG/JoudMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
